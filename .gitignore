@@ -1,0 +1,5 @@
+# Nothing local-only is stored here. Guards against accidental secret commits:
+secrets/
+*.pat
+*config.json
+.env
